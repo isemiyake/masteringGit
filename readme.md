@@ -1,2 +1,2 @@
-## heyoo everyone 
-- I'm adding this from dev-jsm
+## Welcome to git 
+- I'm adding this from dev-adrian
